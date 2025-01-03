@@ -23,5 +23,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhishek-parmar&show_icons=true&locale=en&layout=compact" alt="bhishek-parmar" /></p>    --!>
 
+
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhishek-Parmar&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
